@@ -1,0 +1,44 @@
+Pi Securities Public Company Limited Page : 1 of 2
+Customer Confirmation and Portfolio
+SET : 1,680.49 -1.62 -0.10% SET50 : 998.25 -0.38 -0.04%
+Trade Date : 07/02/2023 Settlement Date : 09/02/2023
+Account No. : 01709888 To : สุภาวรรณ สงวนถ้อยคำ นางสาว (094-8921415)
+Buy Limit : 197,412.72 Credit Line : 1,000,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  07/02/2023 TIME: 16:44BUY
+1 STGT 10,000 11.40 114,000.00 93.48 6.54 114,100.02
+10,000 11.50 115,000.00 94.30 6.60 115,100.90
+Sub Total 20,000 11.45 229,000.00 187.78 13.14 229,200.92
+2 TEGH 17,000 5.85 99,450.00 81.55 5.71 99,537.26
+Sub Total 17,000 5.85 99,450.00 81.55 5.71 99,537.26
+*** Total Bought 328,450.00 328,738.18
+SELL
+1 III 7,500 15.10 113,250.00 92.87 6.50 113,150.63
+Sub Total 7,500 15.10 113,250.00 92.87 6.50 113,150.63
+2 STGT 10,000 11.30 113,000.00 92.66 6.49 112,900.85
+Sub Total 10,000 11.30 113,000.00 92.66 6.49 112,900.85
+3 TEGH 17,000 5.85 99,450.00 81.54 5.71 99,362.75
+Sub Total 17,000 5.85 99,450.00 81.54 5.71 99,362.75
+*** Total Sold 325,700.00 325,414.23
+ATS Fee 0.00 0.00
+Net Customer [Paid] -2,750.00 536.40 37.55 -3,323.95
+Total Commission 490.61 
+Total Trading Fee 39.25
+Total Clearing Fee 6.54
+ATS Fee 0.00
+Total Vat 37.55
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 KEX 10,000 18.72 18.30 187,164.07 183,000.00 -4,667.30
+2 STGT 10,000 11.41 11.40 114,100.02 114,000.00 -413.51
+TOTAL 301,264.09 297,000.00 -5,080.81
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATUREPi Securities Public Company Limited Page : 2 of 2
+Customer Confirmation and Portfolio
+SET : 1,680.49 -1.62 -0.10% SET50 : 998.25 -0.38 -0.04%
+Trade Date : 07/02/2023 Settlement Date : 09/02/2023
+Account No. : 01709888 To : สุภาวรรณ สงวนถ้อยคำ นางสาว (094-8921415)
+Buy Limit : 197,412.72 Credit Line : 1,000,000.00
+No. Stock Position Avg. Price Mkt. Price Amount Mkt.Value Gain/Loss
+Report date:  07/02/2023 TIME: 16:44
