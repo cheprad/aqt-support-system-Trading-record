@@ -46,7 +46,6 @@ for file_name in file_names:
 
 
     # Open a new text file and write the extracted text to it
-    text_file = open("text/"+file_only_name+".txt", 'w',encoding='utf-8')
     text_file = open("text/"+file_only_name+".txt", 'w', encoding="utf-8")
     text_file.write(text)
     text_file.close()
