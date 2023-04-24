@@ -1,0 +1,29 @@
+Pi Securities Public Company Limited Page : 1 of 1
+Customer Confirmation and Portfolio
+SET : 1,659.48 -9.15 -0.55% SET50 : 991.27 -6.49 -0.65%
+Trade Date : 22/02/2023 Settlement Date : 24/02/2023
+Account No. : 01709888 To : สุภาวรรณ สงวนถ้อยคำ นางสาว (094-8921415)
+Buy Limit : 293,395.73 Credit Line : 1,000,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  22/02/2023 TIME: 16:36BUY
+1 AMA 20,000 6.35 127,000.00 104.14 7.29 127,111.43
+Sub Total 20,000 6.35 127,000.00 104.14 7.29 127,111.43
+*** Total Bought 127,000.00 127,111.43
+SELL
+1 KTC 7,000 59.00 413,000.00 338.66 23.71 412,637.63
+Sub Total 7,000 59.00 413,000.00 338.66 23.71 412,637.63
+*** Total Sold 413,000.00 412,637.63
+ATS Fee 0.00 0.00
+Net Customer [Received] 286,000.00 442.80 31.00 285,526.20
+Total Commission 405.00 
+Total Trading Fee 32.40
+Total Clearing Fee 5.40
+ATS Fee 0.00
+Total Vat 31.00
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 AMA 20,000 6.36 6.25 127,111.43 125,000.00 -2,455.17
+TOTAL 127,111.43 125,000.00 -2,455.17
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATURE

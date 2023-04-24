@@ -1,0 +1,42 @@
+Pi Securities Public Company Limited Page : 1 of 2
+Customer Confirmation and Portfolio
+SET : 1,669.17 -1.17 -0.07% SET50 : 991.51 -0.81 -0.08%
+Trade Date : 09/02/2023 Settlement Date : 13/02/2023
+Account No. : 01709888 To : สุภาวรรณ สงวนถ้อยคำ นางสาว (094-8921415)
+Buy Limit : 250,836.48 Credit Line : 1,000,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  09/02/2023 TIME: 16:40BUY
+1 KEX 25,000 17.90 447,500.00 366.96 25.69 447,892.65
+Sub Total 25,000 17.90 447,500.00 366.96 25.69 447,892.65
+2 MAKRO 2,300 41.75 96,025.00 78.74 5.51 96,109.25
+Sub Total 2,300 41.75 96,025.00 78.74 5.51 96,109.25
+3 YONG 50,000 2.58 129,000.00 105.78 7.40 129,113.18
+Sub Total 50,000 2.58 129,000.00 105.78 7.40 129,113.18
+*** Total Bought 672,525.00 673,115.08
+SELL
+1 KEX 25,000 17.60 440,000.00 360.80 25.26 439,613.94
+20,000 17.70 354,000.00 290.27 20.32 353,689.41
+Sub Total 45,000 17.64 794,000.00 651.07 45.58 793,303.35
+*** Total Sold 794,000.00 793,303.35
+ATS Fee 0.00 0.00
+Net Customer [Received] 121,475.00 1,202.55 84.18 120,188.27
+Total Commission 1,099.89 
+Total Trading Fee 87.99
+Total Clearing Fee 14.67
+ATS Fee 0.00
+Total Vat 84.18
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 MAKRO 2,300 41.79 41.50 96,109.25 95,450.00 -921.73
+2 YONG 50,000 2.58 2.50 129,113.17 125,000.00 -4,456.91
+TOTAL 225,222.42 220,450.00 -5,378.64
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATUREPi Securities Public Company Limited Page : 2 of 2
+Customer Confirmation and Portfolio
+SET : 1,669.17 -1.17 -0.07% SET50 : 991.51 -0.81 -0.08%
+Trade Date : 09/02/2023 Settlement Date : 13/02/2023
+Account No. : 01709888 To : สุภาวรรณ สงวนถ้อยคำ นางสาว (094-8921415)
+Buy Limit : 250,836.48 Credit Line : 1,000,000.00
+No. Stock Position Avg. Price Mkt. Price Amount Mkt.Value Gain/Loss
+Report date:  09/02/2023 TIME: 16:40

@@ -1,0 +1,42 @@
+Pi Securities Public Company Limited Page : 1 of 2
+Customer Confirmation and Portfolio
+SET : 1,627.35 -6.67 -0.41% SET50 : 969.33 -4.42 -0.45%
+Trade Date : 27/02/2023 Settlement Date : 01/03/2023
+Account No. : 01709888 To : สุภาวรรณ สงวนถ้อยคำ นางสาว (089-8955124)
+Buy Limit : 6,645.44 Credit Line : 1,000,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  27/02/2023 TIME: 16:41BUY
+1 AMATA 19,000 20.20 383,800.00 314.72 22.03 384,136.75
+Sub Total 19,000 20.20 383,800.00 314.72 22.03 384,136.75
+2 BRI 30,000 12.00 360,000.00 295.20 20.66 360,315.86
+Sub Total 30,000 12.00 360,000.00 295.20 20.66 360,315.86
+3 PTTGC 8,000 48.00 384,000.00 314.88 22.04 384,336.92
+Sub Total 8,000 48.00 384,000.00 314.88 22.04 384,336.92
+*** Total Bought 1,127,800.00 1,128,789.53
+SELL
+1 BRI 30,000 11.90 357,000.00 292.74 20.49 356,686.77
+Sub Total 30,000 11.90 357,000.00 292.74 20.49 356,686.77
+2 PTTGC 8,000 47.75 382,000.00 313.24 21.93 381,664.83
+Sub Total 8,000 47.75 382,000.00 313.24 21.93 381,664.83
+*** Total Sold 739,000.00 738,351.60
+ATS Fee 0.00 0.00
+Net Customer [Paid] -388,800.00 1,530.78 107.15 -390,437.93
+Total Commission 1,400.10 
+Total Trading Fee 112.01
+Total Clearing Fee 18.67
+ATS Fee 0.00
+Total Vat 107.15
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 AMATA 19,000 20.22 20.20 384,136.75 383,800.00 -1,392.17
+TOTAL 384,136.75 383,800.00 -1,392.17
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATUREPi Securities Public Company Limited Page : 2 of 2
+Customer Confirmation and Portfolio
+SET : 1,627.35 -6.67 -0.41% SET50 : 969.33 -4.42 -0.45%
+Trade Date : 27/02/2023 Settlement Date : 01/03/2023
+Account No. : 01709888 To : สุภาวรรณ สงวนถ้อยคำ นางสาว (089-8955124)
+Buy Limit : 6,645.44 Credit Line : 1,000,000.00
+No. Stock Position Avg. Price Mkt. Price Amount Mkt.Value Gain/Loss
+Report date:  27/02/2023 TIME: 16:41
