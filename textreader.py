@@ -11,7 +11,8 @@ check_next_line_buy = bool
 file_names = os.listdir(directory_path)
 buy_order_dict = {}
 stock_buyed = {}
-
+next_line = False
+next_line_sell = False
 # Loop through the file names and print them
 for file_name in file_names:
     print(file_name)
@@ -19,6 +20,7 @@ for file_name in file_names:
     with open(directory_path+file_name, 'r', encoding="utf-8") as file:
         # Read the file line by line
         for line in file:
+            word_in_line = line.split()
             # Print each line
             # print(line)
             # word_in_line = line.split()
@@ -76,15 +78,56 @@ for file_name in file_names:
             # #         print(trade_data)
 
             if next_line == True :
-                # next_line = False 
-                word_in_line = line.split()
-                # print(line+" :",len(word_in_line))
-                # print(line)
-            # เช็คบรรทัดขาซื้อไม้แรก
-            if next_line == True and len(word_in_line)==8 and not re.search("Sub Total", line):
+                next_line = False 
+                
+            #     print(line+" :",len(word_in_line))
+            #     # print(line)
+
+            if re.search("BUY", line):
+                next_line = True
+            # # เช็คบรรทัดขาซื้อไม้แรก
+            # if next_line == True and len(word_in_line)==8 and not re.search("Sub Total", line):
+            #     print(line)
+            # # เช็คบรรทัดขาซื้อไม้แรก
+            
+            # # เช็คบรรทัดขาซื้อไม้ต่อมา
+            # if next_line == True and len(word_in_line)==6:
+            #     print(line)
+            # # เช็คบรรทัดขาซื้อไม้ต่อ
+            
+            # # เช็คบรรทัด Sub Total ขาซื้อ
+            # if next_line == True and re.search("Sub Total", line):
+            #     print(line)
+            # # เช็คบรรทัด Sub Total ขาซื้อ
+
+            if re.search("SELL", line):
+                next_line_sell = True
+
+            # # เช็คบรรทัดขาขายไม้แรก
+            # if next_line_sell == True :
+            #     print(line+" :",len(word_in_line))
+                
+            # if next_line_sell == True and len(word_in_line)==8 and not re.search("Sub Total", line):
+            #     print(line)
+            # เช็คบรรทัดขาขายไม้แรก
+
+            # เช็คบรรทัดขาขายไม้ต่อมา
+            # if next_line_sell == True and len(word_in_line)==6:
+            #     print(line)
+
+            # เช็คบรรทัด Sub Total ขาขาย
+            if next_line_sell == True and re.search("Sub Total", line):
                 print(line)
+            # เช็คบรรทัด Sub Total ขาขาย
+
+
+
             if re.search("Total Bought", line) : 
                 next_line = False
+            if re.search("Total Sold", line) : 
+                next_line_sell = False
+                
+
             #     print('s')
                 # for i in range(8):
                 #     trade_data.append(word_in_line[i])
@@ -107,8 +150,7 @@ for file_name in file_names:
 
             # start 1. เช็ค report date
             if re.search("Report date:", line):
-                if re.search("BUY", line):
-                    next_line = True
+
                 word_in_line = line.split()
                 # print(word_in_line)
                 report_dict["report date"] = word_in_line[2]
