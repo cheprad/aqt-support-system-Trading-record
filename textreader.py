@@ -3,7 +3,6 @@ import re
 
 directory_path = "text/"
 word_to_find = "Report date:"
-report_dict = {}
 trade_data = []
 addlist = []
 next_line = bool 
@@ -111,20 +110,25 @@ for file_name in file_names:
             
 
             # # เช็คบรรทัดขาขายไม้แรก
-            # if next_line_sell == True :
-            #     print(line+" :",len(word_in_line))
+            if next_line_sell == True :
+                # print(line+" :",len(word_in_line))
+                pass
                 
-            # if next_line_sell == True and len(word_in_line)==8 and not re.search("Sub Total", line):
-            #     print(line)
+            if next_line_sell == True and len(word_in_line)==8 and not re.search("Sub Total", line):
+                print(word_in_line)
+                # trade_data.append(report_date)
+                # trade_data.append(word_in_line)
             # เช็คบรรทัดขาขายไม้แรก
 
             # เช็คบรรทัดขาขายไม้ต่อมา
-            # if next_line_sell == True and len(word_in_line)==6:
-            #     print(line)
+            if next_line_sell == True and len(word_in_line)==6:
+                # print(line)
+                pass
 
             # เช็คบรรทัด Sub Total ขาขาย
-            # if next_line_sell == True and re.search("Sub Total", line):
-            #     print(line)
+            if next_line_sell == True and re.search("Sub Total", line):
+                # print(line)
+                pass
             # เช็คบรรทัด Sub Total ขาขาย
  
 
@@ -134,7 +138,10 @@ for file_name in file_names:
                 next_line_SPA = False
             if next_line_SPA == True :
                 # print("pick")
-                print(line_count,word_in_line)
+                # print(line_count,word_in_line)
+                trade_data.append(report_date)
+                trade_data.append(word_in_line)
+                
                 # print(len(word_in_line))
             if re.search("Stock Position",line) :
                 # print(line_count,line)
@@ -145,45 +152,18 @@ for file_name in file_names:
                 next_line = False
             if re.search("Total Sold", line) : 
                 next_line_sell = False
-            # if re.search("Stock Position",line) :
-            #     next_line_SPA = False
-
-            
-                
-
-            #     print('s')
-                # for i in range(8):
-                #     trade_data.append(word_in_line[i])
-                # NO = word_in_line[0]
-                # stock = word_in_line[1]
-                # trade_data['NO.'] =  word_in_line[0]
-                # trade_data['stock'] =  word_in_line[1]
-                # trade_data['volume'] =  word_in_line[2]
-                # trade_data['price'] =  word_in_line[3]
-                # trade_data['gross amount'] =  word_in_line[4]
-                # trade_data['commission'] =  word_in_line[5]
-                # trade_data['vat'] =  word_in_line[6]
-                # trade_data['amount due'] =  word_in_line[7]
-                # trade_data['remark'] =  ''
-                # stock_buyed[trade_data['NO.']] = trade_data
-                # buy_order_dict[trade_data[1]] = [trade_data]
-                # print(trade_data)
-                # print(buy_order_dict)
-                # check_next_line_buy = True
-
+          
             # start 1. เช็ค report date
             if re.search("Report date:", line):
 
                 word_in_line = line.split()
                 # print(word_in_line)
-                report_dict["report date"] = word_in_line[2]
+                report_date = word_in_line[2]
             # end 1. เช็ค report date
-
-        # buy_order_dict[trade_data['stock']] = stock_buyed
-        # print(buy_order_dict)
-        # print("stock_buyed :",stock_buyed)
+            
         print(" ")
         print("<<< _______end of file _______ >>>")
         print(" ")
 
-print (report_dict["report date"])
+        
+print(trade_data)
