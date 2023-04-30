@@ -11,15 +11,21 @@ check_next_line_buy = bool
 file_names = os.listdir(directory_path)
 buy_order_dict = {}
 stock_buyed = {}
+line_count = 0
 next_line = False
 next_line_sell = False
+next_line_SPA = False
 # Loop through the file names and print them
+
+
 for file_name in file_names:
     print(file_name)
-    i = 0
+    line_count = 0
     with open(directory_path+file_name, 'r', encoding="utf-8") as file:
         # Read the file line by line
         for line in file:
+            line_count += 1 
+            # print(line_count)
             word_in_line = line.split()
             # Print each line
             # print(line)
@@ -102,6 +108,7 @@ for file_name in file_names:
 
             if re.search("SELL", line):
                 next_line_sell = True
+            
 
             # # เช็คบรรทัดขาขายไม้แรก
             # if next_line_sell == True :
@@ -116,16 +123,32 @@ for file_name in file_names:
             #     print(line)
 
             # เช็คบรรทัด Sub Total ขาขาย
-            if next_line_sell == True and re.search("Sub Total", line):
-                print(line)
+            # if next_line_sell == True and re.search("Sub Total", line):
+            #     print(line)
             # เช็คบรรทัด Sub Total ขาขาย
+ 
 
-
+            # เช็คขอมูล SPA
+            if  (len(word_in_line)==4 and re.search("TOTAL",line)) or (re.search("Report date",line) and not re.search("BUY",line)):
+                # print(line)
+                next_line_SPA = False
+            if next_line_SPA == True :
+                # print("pick")
+                print(line_count,word_in_line)
+                # print(len(word_in_line))
+            if re.search("Stock Position",line) :
+                # print(line_count,line)
+                next_line_SPA = True
+            # เช็คขอมูล SPA
 
             if re.search("Total Bought", line) : 
                 next_line = False
             if re.search("Total Sold", line) : 
                 next_line_sell = False
+            # if re.search("Stock Position",line) :
+            #     next_line_SPA = False
+
+            
                 
 
             #     print('s')
@@ -163,4 +186,4 @@ for file_name in file_names:
         print("<<< _______end of file _______ >>>")
         print(" ")
 
-
+print (report_dict["report date"])
