@@ -1,5 +1,7 @@
 import os
 import re
+import pandas as pd
+import numpy as np
 
 directory_path = "text/"
 word_to_find = "Report date:"
@@ -100,6 +102,8 @@ for file_name in file_names:
                 keydata = word_in_line
                 word_in_line.insert(0, "B")
                 word_in_line.insert(0, report_date)
+                word_in_line.append(fname)
+                word_in_line.append(lname)
                 trade_data.append(word_in_line)
                 count_number = 0
             # เช็คบรรทัดขาซื้อไม้แรก
@@ -112,6 +116,8 @@ for file_name in file_names:
                 word_in_line.insert(0, float(keydata[2])+count_number)
                 word_in_line.insert(0, keydata[1])
                 word_in_line.insert(0, keydata[0])
+                word_in_line.append(fname)
+                word_in_line.append(lname)
                 trade_data.append(word_in_line)
                 # pass
             # เช็คบรรทัดขาซื้อไม้ต่อ
@@ -135,6 +141,8 @@ for file_name in file_names:
                 keydata = word_in_line
                 word_in_line.insert(0, "S")
                 word_in_line.insert(0, report_date)
+                word_in_line.append(fname)
+                word_in_line.append(lname)
                 trade_data.append(word_in_line)
                 count_number = 0
                 
@@ -147,8 +155,11 @@ for file_name in file_names:
                 # print(keydata)
                 word_in_line.insert(0, keydata[3])
                 word_in_line.insert(0, float(keydata[2])+count_number)
+                
                 word_in_line.insert(0, keydata[1])
                 word_in_line.insert(0, keydata[0])
+                word_in_line.append(fname)
+                word_in_line.append(lname)
                 trade_data.append(word_in_line)
                 # print(word_in_line)
                 pass
@@ -168,6 +179,8 @@ for file_name in file_names:
                 # print("pick")
                 # print(line_count,word_in_line)
                 word_in_line.insert(0, report_date)
+                word_in_line.append(fname)
+                word_in_line.append(lname)
                 trade_data_SPA.append(word_in_line)
                 
                 # print(len(word_in_line))
@@ -180,7 +193,7 @@ for file_name in file_names:
                 next_line = False
             if re.search("Total Sold", line) : 
                 next_line_sell = False
-          
+           
             # start 1. เช็ค report date
             if re.search("Report date:", line):
 
@@ -188,7 +201,14 @@ for file_name in file_names:
                 # print(word_in_line)
                 report_date = word_in_line[2]
             # end 1. เช็ค report date
-            
+            if re.search("Account No", line):
+                print(line_count,word_in_line)
+                fname = word_in_line[6]
+                lname = word_in_line[7]
+                # word_in_line.insert(0, word_in_line[6])
+                # word_in_line.insert(0, word_in_line[7])
+                # trade_data.append(word_in_line)
+
         print(" ")
         print("<<< _______end of file _______ >>>")
         print(" ")
@@ -199,3 +219,21 @@ print(trade_data)
 print(' - - - - - - - -- - - -')
 print('trade_data_SPA')
 print(trade_data_SPA)
+
+
+import datetime
+
+now = datetime.datetime.now()
+date_string = now.strftime("%Y_%m_%d")
+
+print(date_string)
+
+df1 = pd.DataFrame(np.array(trade_data),
+                   columns=['date', 'order', 'n','stock','volumn','price','GrossAmount','comm.','vat','AmountDue','FirstName','LastName'])
+df1.to_csv("csv/trade_data"+date_string+".csv",encoding='utf-8-sig')
+
+df2 = pd.DataFrame(np.array(trade_data_SPA),
+                   columns=['date', 'no.', 'stock','position','Avg.Price','Mkt.Price','Amount','Mkt.Value','Gain/Loss','FirstName','LastName'])
+df2.to_csv("csv/trade_data_SPA_"+date_string+".csv",encoding='utf-8-sig')
+print(df1)
+print(df2)
