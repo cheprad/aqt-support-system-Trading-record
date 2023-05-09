@@ -1,0 +1,24 @@
+Pi Securities Public Company Limited Page : 1 of 1
+Customer Confirmation and Portfolio
+SET : 1,597.10 +3.97 +0.25% SET50 : 965.51 +1.99 +0.21%
+Trade Date : 11/04/2023 Settlement Date : 17/04/2023
+Account No. : 01728188 To : พันธสัญญ์ ภูมิบรรเจิด นาย (061-4601889)
+Buy Limit : 42,045.67 Credit Line : 80,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  11/04/2023 TIME: 16:54SELL
+1 JTS 800 35.75 28,600.00 29.18 2.04 28,568.78
+Sub Total 800 35.75 28,600.00 29.18 2.04 28,568.78
+*** Total Sold 28,600.00 28,568.78
+ATS Fee 0.00 0.00
+Net Customer [Received] 28,600.00 29.18 2.04 28,568.78
+Total Commission 27.17 
+Total Trading Fee 1.72
+Total Clearing Fee 0.29
+ATS Fee 0.00
+Total Vat 2.04
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+TOTAL 0.00 0.00 0.00
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATURE

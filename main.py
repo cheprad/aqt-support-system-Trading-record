@@ -25,26 +25,13 @@ for file_name in file_names:
         text += page_obj.extractText()
         i += 1 
         print(text)
-        
-        # for word in text:
-        #     print(word)
-            # if word.endswith('BUY') or word.endswith('SELL'):
-            #     print(word)
-            # elif word.endswith('ed') or word.endswith('ing'):
-            #     num_verbs += 1
-            # elif word.endswith('ful') or word.endswith('ous'):
-            #     num_adjectives += 1
-            # else:
-            #     num_other += 1
 
     # Close the PDF file
     pdf_file.close()
 
     # Cut the string using slicing
     file_only_name = file_name[:-4]
-
-
-
+    
     # Open a new text file and write the extracted text to it
     text_file = open("text/"+file_only_name+".txt", 'w', encoding="utf-8")
     text_file.write(text)

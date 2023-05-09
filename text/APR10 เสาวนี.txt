@@ -1,0 +1,26 @@
+Pi Securities Public Company Limited Page : 1 of 1
+Customer Confirmation and Portfolio
+SET : 1,593.13 +16.06 +1.02% SET50 : 963.52 +12.59 +1.32%
+Trade Date : 10/04/2023 Settlement Date : 12/04/2023
+Account No. : 01729658 To : เสาวนี จงวัฒนานุกูล นางสาว (086-4108402)
+Buy Limit : 229,476.88 Credit Line : 500,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  10/04/2023 TIME: 16:39BUY
+1 ARIP 50,000 1.34 67,000.00 58.29 4.08 67,062.37
+Sub Total 50,000 1.34 67,000.00 58.29 4.08 67,062.37
+*** Total Bought 67,000.00 67,062.37
+ATS Fee 0.00 0.00
+Net Customer [Paid] -67,000.00 58.29 4.08 -67,062.37
+Total Commission 53.60 
+Total Trading Fee 4.02
+Total Clearing Fee 0.67
+ATS Fee 0.00
+Total Vat 4.08
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 ARIP 50,000 1.34 1.35 67,062.37 67,500.00 252.01
+2 SPRC 5,000 11.01 10.70 55,051.20 53,500.00 -1,698.33
+TOTAL 122,113.57 121,000.00 -1,446.32
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATURE

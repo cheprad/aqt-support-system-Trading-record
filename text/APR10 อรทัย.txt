@@ -1,0 +1,28 @@
+Pi Securities Public Company Limited Page : 1 of 1
+Customer Confirmation and Portfolio
+SET : 1,593.13 +16.06 +1.02% SET50 : 963.52 +12.59 +1.32%
+Trade Date : 10/04/2023 Settlement Date : 12/04/2023
+Account No. : 01702451 To : อรทัย บุญจิราภรณ์ น.ส. (065-6399195)
+Buy Limit : 489,698.50 Credit Line : 2,000,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  10/04/2023 TIME: 16:40BUY
+1 IP 1,000 12.30 12,300.00 10.09 0.71 12,310.80
+Sub Total 1,000 12.30 12,300.00 10.09 0.71 12,310.80
+*** Total Bought 12,300.00 12,310.80
+ATS Fee 14.00 0.98
+Net Customer [Paid] -12,300.00 24.09 1.69 -12,325.78
+Total Commission 9.23 
+Total Trading Fee 0.74
+Total Clearing Fee 0.12
+ATS Fee 14.00
+Total Vat 1.69
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 BDMS 300 29.03 30.50 8,707.64 9,150.00 417.19
+2 CPALL 300 63.97 61.75 19,191.81 18,525.00 -717.75
+3 IP 3,000 12.68 12.20 38,033.33 36,600.00 -1,533.97
+4 MASTER 600 80.95 82.75 48,567.57 49,650.00 945.90
+TOTAL 114,500.35 113,925.00 -888.63
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATURE

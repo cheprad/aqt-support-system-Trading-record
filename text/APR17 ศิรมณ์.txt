@@ -1,0 +1,25 @@
+Pi Securities Public Company Limited Page : 1 of 1
+Customer Confirmation and Portfolio
+SET : 1,600.41 +7.74 +0.49% SET50 : 966.09 +4.33 +0.45%
+Trade Date : 17/04/2023 Settlement Date : 19/04/2023
+Account No. : 01730368 To : ศิรมณ์ เสถียรรัมย์ นาย (098-2897541)
+Buy Limit : 265,044.16 Credit Line : 500,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  17/04/2023 TIME: 16:44SELL
+1 ROJNA 5,000 6.50 32,500.00 26.66 1.87 32,471.47
+Sub Total 5,000 6.50 32,500.00 26.66 1.87 32,471.47
+*** Total Sold 32,500.00 32,471.47
+ATS Fee 0.00 0.00
+Net Customer [Received] 32,500.00 26.66 1.87 32,471.47
+Total Commission 24.38 
+Total Trading Fee 1.95
+Total Clearing Fee 0.33
+ATS Fee 0.00
+Total Vat 1.87
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 SABUY 4,000 12.21 11.00 48,842.83 44,000.00 -4,963.83
+TOTAL 48,842.83 44,000.00 -4,963.83
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATURE

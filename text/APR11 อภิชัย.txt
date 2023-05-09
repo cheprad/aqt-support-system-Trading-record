@@ -1,0 +1,28 @@
+Pi Securities Public Company Limited Page : 1 of 1
+Customer Confirmation and Portfolio
+SET : 1,597.10 +3.97 +0.25% SET50 : 965.51 +1.99 +0.21%
+Trade Date : 11/04/2023 Settlement Date : 17/04/2023
+Account No. : 01731998 To : อภิชัย วงศ์ตรีรัตนชัย นาย (062-5977001)
+Buy Limit : 3,604.48 Credit Line : 500,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  11/04/2023 TIME: 16:48BUY
+1 LH 200 9.85 1,970.00 1.62 0.11 1,971.73
+Sub Total 200 9.85 1,970.00 1.62 0.11 1,971.73
+2 MTC 1,000 36.25 36,250.00 29.72 2.08 36,281.80
+Sub Total 1,000 36.25 36,250.00 29.72 2.08 36,281.80
+*** Total Bought 38,220.00 38,253.53
+ATS Fee 0.00 0.00
+Net Customer [Paid] -38,220.00 31.34 2.19 -38,253.53
+Total Commission 28.67 
+Total Trading Fee 2.29
+Total Clearing Fee 0.38
+ATS Fee 0.00
+Total Vat 2.19
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 LH 200 9.86 9.90 1,971.73 1,980.00 2.82
+2 MTC 1,000 36.28 36.25 36,281.81 36,250.00 -131.49
+TOTAL 38,253.54 38,230.00 -128.67
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATURE
