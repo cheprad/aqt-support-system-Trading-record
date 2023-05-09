@@ -209,6 +209,7 @@ df3 = pd.DataFrame(np.array(trade_data_sub_total),
                     columns=['date','stock','order','volumn','price','GrossAmount','comm.','vat','AmountDue','FirstName','LastName'])
 # df3.to_csv("csv/trade_data_sub_total"+date_string+".csv",encoding='utf-8-sig')
 df3.to_csv("csv/trade_data_sub_total.csv",encoding='utf-8-sig')
+df3.to_csv("csv/trade_data_sub_total"+date_string+".csv",encoding='utf-8-sig')
 
 
 # print(trade_data)
