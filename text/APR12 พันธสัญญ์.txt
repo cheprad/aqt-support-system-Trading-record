@@ -1,0 +1,38 @@
+Pi Securities Public Company Limited Page : 1 of 2
+Customer Confirmation and Portfolio
+SET : 1,592.67 -4.43 -0.28% SET50 : 961.76 -3.75 -0.39%
+Trade Date : 12/04/2023 Settlement Date : 18/04/2023
+Account No. : 01728188 To : พันธสัญญ์ ภูมิบรรเจิด นาย (061-4601889)
+Buy Limit : 207.60 Credit Line : 80,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  12/04/2023 TIME: 16:42BUY
+1 PROEN 6,800 6.25 42,500.00 43.36 3.04 42,546.40
+Sub Total 6,800 6.25 42,500.00 43.36 3.04 42,546.40
+2 SICT 4,000 10.40 41,600.00 42.44 2.97 41,645.41
+Sub Total 4,000 10.40 41,600.00 42.44 2.97 41,645.41
+*** Total Bought 84,100.00 84,191.81
+SELL
+1 SICT 4,000 10.60 42,400.00 43.24 3.02 42,353.74
+Sub Total 4,000 10.60 42,400.00 43.24 3.02 42,353.74
+*** Total Sold 42,400.00 42,353.74
+ATS Fee 0.00 0.00
+Net Customer [Paid] -41,700.00 129.04 9.03 -41,838.07
+Total Commission 120.18 
+Total Trading Fee 7.59
+Total Clearing Fee 1.27
+ATS Fee 0.00
+Total Vat 9.03
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 PROEN 6,800 6.26 6.25 42,546.38 42,500.00 -163.26
+TOTAL 42,546.38 42,500.00 -163.26
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATUREPi Securities Public Company Limited Page : 2 of 2
+Customer Confirmation and Portfolio
+SET : 1,592.67 -4.43 -0.28% SET50 : 961.76 -3.75 -0.39%
+Trade Date : 12/04/2023 Settlement Date : 18/04/2023
+Account No. : 01728188 To : พันธสัญญ์ ภูมิบรรเจิด นาย (061-4601889)
+Buy Limit : 207.60 Credit Line : 80,000.00
+No. Stock Position Avg. Price Mkt. Price Amount Mkt.Value Gain/Loss
+Report date:  12/04/2023 TIME: 16:42

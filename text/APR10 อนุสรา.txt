@@ -1,0 +1,29 @@
+Pi Securities Public Company Limited Page : 1 of 1
+Customer Confirmation and Portfolio
+SET : 1,593.13 +16.06 +1.02% SET50 : 963.52 +12.59 +1.32%
+Trade Date : 10/04/2023 Settlement Date : 12/04/2023
+Account No. : 01729488 To : อนุสรา นพกาศ นางสาว (063-2415939)
+Buy Limit : 10,214.82 Credit Line : 290,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  10/04/2023 TIME: 16:40BUY
+1 DEXON 2,000 4.28 8,560.00 7.45 0.52 8,567.97
+6,000 4.30 25,800.00 22.44 1.57 25,824.01
+Sub Total 8,000 4.30 34,360.00 29.89 2.09 34,391.98
+*** Total Bought 34,360.00 34,391.98
+ATS Fee 0.00 0.00
+Net Customer [Paid] -34,360.00 29.89 2.09 -34,391.98
+Total Commission 27.49 
+Total Trading Fee 2.06
+Total Clearing Fee 0.34
+ATS Fee 0.00
+Total Vat 2.09
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 BCP 1,000 32.28 31.50 32,280.02 31,500.00 -866.65
+2 DEXON 8,000 4.30 4.28 34,391.98 34,240.00 -246.14
+3 ESSO 3,000 8.96 8.85 26,874.99 26,550.00 -398.00
+4 HMPRO 1,500 14.55 14.40 21,820.28 21,600.00 -279.68
+TOTAL 115,367.27 113,890.00 -1,790.47
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATURE

@@ -1,0 +1,46 @@
+Pi Securities Public Company Limited Page : 1 of 2
+Customer Confirmation and Portfolio
+SET : 1,597.10 +3.97 +0.25% SET50 : 965.51 +1.99 +0.21%
+Trade Date : 11/04/2023 Settlement Date : 17/04/2023
+Account No. : 01729488 To : อนุสรา นพกาศ นางสาว (063-2415939)
+Buy Limit : 492.38 Credit Line : 290,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  11/04/2023 TIME: 16:47BUY
+1 AMATA 800 23.00 18,400.00 16.00 1.12 18,417.12
+Sub Total 800 23.00 18,400.00 16.00 1.12 18,417.12
+2 BCH 1,500 21.30 31,950.00 27.80 1.95 31,979.75
+Sub Total 1,500 21.30 31,950.00 27.80 1.95 31,979.75
+3 ROJNA 1,000 6.40 6,400.00 5.56 0.39 6,405.95
+1,400 6.45 9,030.00 7.86 0.55 9,038.41
+Sub Total 2,400 6.43 15,430.00 13.42 0.94 15,444.36
+*** Total Bought 65,780.00 65,841.23
+SELL
+1 DEXON 8,000 4.26 34,080.00 29.66 2.07 34,048.27
+Sub Total 8,000 4.26 34,080.00 29.66 2.07 34,048.27
+*** Total Sold 34,080.00 34,048.27
+ATS Fee 0.00 0.00
+Net Customer [Paid] -31,700.00 86.88 6.08 -31,792.96
+Total Commission 79.89 
+Total Trading Fee 5.99
+Total Clearing Fee 1.00
+ATS Fee 0.00
+Total Vat 6.08
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 AMATA 800 23.02 23.20 18,417.13 18,560.00 91.83
+2 BCH 1,500 21.32 21.20 31,979.75 31,800.00 -267.20
+3 BCP 1,000 32.28 32.00 32,280.02 32,000.00 -368.02
+4 ESSO 3,000 8.96 8.85 26,874.99 26,550.00 -398.00
+5 HMPRO 1,500 14.55 14.30 21,820.28 21,450.00 -429.27
+6 ROJNA 2,400 6.44 6.40 15,444.37 15,360.00 -126.61
+TOTAL 146,816.54 145,720.00 -1,497.27
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATUREPi Securities Public Company Limited Page : 2 of 2
+Customer Confirmation and Portfolio
+SET : 1,597.10 +3.97 +0.25% SET50 : 965.51 +1.99 +0.21%
+Trade Date : 11/04/2023 Settlement Date : 17/04/2023
+Account No. : 01729488 To : อนุสรา นพกาศ นางสาว (063-2415939)
+Buy Limit : 492.38 Credit Line : 290,000.00
+No. Stock Position Avg. Price Mkt. Price Amount Mkt.Value Gain/Loss
+Report date:  11/04/2023 TIME: 16:47

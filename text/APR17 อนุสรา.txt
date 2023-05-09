@@ -1,0 +1,45 @@
+Pi Securities Public Company Limited Page : 1 of 2
+Customer Confirmation and Portfolio
+SET : 1,600.41 +7.74 +0.49% SET50 : 966.09 +4.33 +0.45%
+Trade Date : 17/04/2023 Settlement Date : 19/04/2023
+Account No. : 01729488 To : อนุสรา นพกาศ นางสาว (063-2415939)
+Buy Limit : 15,964.52 Credit Line : 290,000.00
+BS Stock Volume Price Gross Amount Comm. Vat Amount Due
+Report date:  17/04/2023 TIME: 16:44BUY
+1 THANI 2,000 3.82 7,640.00 6.65 0.47 7,647.12
+2,000 3.84 7,680.00 6.68 0.46 7,687.14
+Sub Total 4,000 3.83 15,320.00 13.33 0.93 15,334.26
+*** Total Bought 15,320.00 15,334.26
+SELL
+1 AMATA 800 23.60 18,880.00 16.42 1.15 18,862.43
+Sub Total 800 23.60 18,880.00 16.42 1.15 18,862.43
+2 BCH 500 21.80 10,900.00 9.48 0.66 10,889.86
+Sub Total 500 21.80 10,900.00 9.48 0.66 10,889.86
+3 ROJNA 2,400 6.60 15,840.00 13.79 0.97 15,825.24
+Sub Total 2,400 6.60 15,840.00 13.79 0.97 15,825.24
+*** Total Sold 45,620.00 45,577.53
+ATS Fee 0.00 0.00
+Net Customer [Received] 30,300.00 53.02 3.71 30,243.27
+Total Commission 48.75 
+Total Trading Fee 3.66
+Total Clearing Fee 0.61
+ATS Fee 0.00
+Total Vat 3.71
+No. Stock Position Avg. Price Mkt. Price Amount Mkt. Value Gain/Loss
+1 BCH 1,000 21.32 21.60 21,319.83 21,600.00 220.77
+2 BCP 1,000 32.28 31.75 32,280.02 31,750.00 -617.33
+3 ESSO 3,000 8.96 8.90 26,874.99 26,700.00 -248.41
+4 HMPRO 1,500 14.55 14.30 21,820.28 21,450.00 -429.27
+5 THANI 4,000 3.83 3.82 15,334.27 15,280.00 -96.29
+TOTAL 117,629.39 116,780.00 -1,170.53
+IF THERE IS ANY DISCREPENCY, PLEASE INFORM US IMMEDIATELY ;
+OTHERWISE, THE ABOVE TRANSACTIONS WILL BE CONSIDERED.
+___________________________________
+AUTHORIZED SIGNATUREPi Securities Public Company Limited Page : 2 of 2
+Customer Confirmation and Portfolio
+SET : 1,600.41 +7.74 +0.49% SET50 : 966.09 +4.33 +0.45%
+Trade Date : 17/04/2023 Settlement Date : 19/04/2023
+Account No. : 01729488 To : อนุสรา นพกาศ นางสาว (063-2415939)
+Buy Limit : 15,964.52 Credit Line : 290,000.00
+No. Stock Position Avg. Price Mkt. Price Amount Mkt.Value Gain/Loss
+Report date:  17/04/2023 TIME: 16:44
