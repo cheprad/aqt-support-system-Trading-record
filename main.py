@@ -2,7 +2,7 @@ import PyPDF2
 import os
 
 # Replace "directory_path" with the path to the directory you want to read
-directory_path = "file"
+directory_path = "input_file/"
 
 # List all the files in the directory
 file_names = os.listdir(directory_path)
@@ -11,7 +11,7 @@ file_names = os.listdir(directory_path)
 for file_name in file_names:
     print(file_name)
     # Open the PDF file in binary mode
-    pdf_file = open("file/"+str(file_name), 'rb')
+    pdf_file = open(directory_path+str(file_name), 'rb')
 
     # Create a PDF reader object
     pdf_reader = PyPDF2.PdfFileReader(pdf_file)
