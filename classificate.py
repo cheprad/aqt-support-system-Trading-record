@@ -2,6 +2,7 @@ import csv
 import os
 import pandas as pd
 import numpy as np
+import datetime
 # specify the path of the CSV file
 file_path = ''
 aqt_names= []
@@ -81,11 +82,44 @@ df_user_noaqt_names = pd.DataFrame(np.array(no_aqt[1:]),
                    columns=['date','stock','order','volumn','price','GrossAmount','comm.','vat','AmountDue','FirstName','LastName','aqt'])
 
 df_by_aqt = {}
+df_by_date = {}
+df_in_list = []
+
 for aqt, group in df_user_aqt_names.groupby('aqt'):
     df_by_aqt[aqt] = group
-    df_by_aqt[aqt].to_csv(aqt+".csv",encoding='utf-8-sig')
+    df_in_list.append(df_by_aqt[aqt])
+    # df_by_aqt[aqt].to_csv(aqt+".csv",encoding='utf-8-sig')
+    # df_by_aqt[date].to_csv(aqt+".csv",encoding='utf-8-sig')
 
-print(df_by_aqt)
+for df in df_in_list:
+    for date, group in df.groupby('date'):
+        df_by_date[date] = group
+        print(df_by_date[date])
+        print(df_by_date[date].iloc[0, 11])
+        print("______")
+        date_string = "10/04/2023"
+        date_obj = datetime.datetime.strptime(date, '%d/%m/%Y')
+
+        # แปลง format วันที่
+        new_date_string = date_obj.strftime('%d-%m-%Y')
+        # เขียนไฟล์ CSV ตาม path ที่กำหนด อิงจากชื่อ AQT 
+        df_by_date[date].to_csv("output/"+df_by_date[date].iloc[0, 11]+"/"+new_date_string+".csv",encoding='utf-8-sig')
+        # df_in_list.append(df_by_aqt[aqt])
+
+for date, group in df_user_noaqt_names.groupby('date'):
+    df_by_date[date] = group
+    print(df_by_date[date])
+    print(df_by_date[date].iloc[0, 11])
+    print("______")
+    date_obj = datetime.datetime.strptime(date, '%d/%m/%Y')
+    # แปลง format วันที่
+    new_date_string = date_obj.strftime('%d-%m-%Y')
+    # เขียนไฟล์ CSV ตาม path ที่กำหนด อิงจากชื่อ AQT 
+    df_by_date[date].to_csv("output/"+"no/"+new_date_string+".csv",encoding='utf-8-sig')
+
+
+# print(df_by_date)
+# print(df_by_aqt['โอปอ'])
                 # for i in user_aqt_names:
                     
                      
