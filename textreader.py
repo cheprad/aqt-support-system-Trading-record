@@ -74,9 +74,10 @@ for file_name in file_names:
                 word_in_line.insert(0,stock_order)
                 word_in_line.insert(0, report_date)
                 print(word_in_line)
-                word_in_line.append(fname)
-                word_in_line.append(lname)
-                trade_data_sub_total.append(word_in_line)
+                if len(word_in_line==9):
+                    word_in_line.append(fname)
+                    word_in_line.append(lname)
+                    trade_data_sub_total.append(word_in_line)
 
 
                 pass
@@ -114,9 +115,11 @@ for file_name in file_names:
                 
                 word_in_line.insert(0, keydata[1])
                 word_in_line.insert(0, keydata[0])
-                word_in_line.append(fname)
-                word_in_line.append(lname)
-                trade_data.append(word_in_line)
+                if len(word_in_line==9):
+                    word_in_line.append(fname)
+                    word_in_line.append(lname)
+                    trade_data_sub_total.append(word_in_line)
+
                 # print(word_in_line)
                 pass
 
